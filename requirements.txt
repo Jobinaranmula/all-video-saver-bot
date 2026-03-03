@@ -1,2 +1,8 @@
+aiogram==2.25.1
+yt-dlp
+aiohttp==3.8.5
+requests
+httpx
+gunicorn
 pyTelegramBotAPI
 yt-dlp
